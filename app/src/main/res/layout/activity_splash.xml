@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.2"
+        android:scaleType="fitXY"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/txvTic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/txvTac"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="50dp"
+        android:padding="10dp"
+        android:text="Tic"
+        android:textColor="@color/colorRight"
+        android:textSize="40dp"
+        android:textStyle="italic|bold"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/txvTac"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:padding="10dp"
+        android:text="Tac"
+        android:textColor="@color/colorPrimary"
+        android:textSize="40dp"
+        android:textStyle="italic|bold"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/txvToe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/txvTac"
+        android:layout_marginRight="50dp"
+        android:padding="10dp"
+        android:text="Toe"
+        android:textColor="@color/colorCross"
+        android:textSize="40dp"
+        android:textStyle="italic|bold"
+        android:typeface="serif" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="us47codex"
+        android:textColor="@color/colorPrimary" />
+
+</RelativeLayout>

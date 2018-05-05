@@ -1,0 +1,431 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/5eb37e93e766777b6cae99ba73a1faf0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-ads:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.0.aar/12a0e8f4bbe8ac790d0ffe69cb3f4349/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/22837acc93c0ed3b898d82721f690c4a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-core:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/1b5c82bdeff21e132061bf372cb574ff/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/2e3e9b23304ec66a68cb4b13ec89d897/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/b7282512fcd93a9fd3c2d97dc65cd8e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/c8bba95240d33a7c431b58c0ff478897/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/7ac048a9454095b3154a2a2f37be5e82/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/d5bae3cbe1f72dccabc6893c0a7406ad/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/a5264ab281eed5a98abd5607466c4d84/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/9012dd542660a488618e2fe7f105f6e9/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/bcbd23eb3117f4b8cb46900c1f95a133/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb7cc5418ebf6047d35ad961ed69ecc9/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/54c8aabb9a5d67430f728f880f226f96/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2659603e91c0e1e6941912fafddf6f4e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ef97364158ffb7294558b71e99350c63/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/800dbb4ab95652e3ad3507271ebbd8dd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:customtabs:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3bb4027a356aca9617c3ebce06a660bd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/3aeadfc0d675e6b40781dba32f29d002/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/03185da513894088ff1edf455cf34281/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/43f7318f9beae4c15c3e1153bc66e243/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/170735ec1aa983f298cb7cd204d9cf15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/ddc2305bbc4f1074feb508ee9b4f443b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/cfce4ad090615baefffd29a7bb576378/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/299676239fbddfb6ca1607561d770659/AndroidManifest.xml:17:1-30:12
+INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb7cc5418ebf6047d35ad961ed69ecc9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb7cc5418ebf6047d35ad961ed69ecc9/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:7:22-71
+application
+ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:9:5-42:19
+MERGED from [com.google.firebase:firebase-ads:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.0.aar/12a0e8f4bbe8ac790d0ffe69cb3f4349/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ads:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.0.aar/12a0e8f4bbe8ac790d0ffe69cb3f4349/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/1b5c82bdeff21e132061bf372cb574ff/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/1b5c82bdeff21e132061bf372cb574ff/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/c8bba95240d33a7c431b58c0ff478897/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/c8bba95240d33a7c431b58c0ff478897/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/7ac048a9454095b3154a2a2f37be5e82/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/7ac048a9454095b3154a2a2f37be5e82/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/d5bae3cbe1f72dccabc6893c0a7406ad/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/d5bae3cbe1f72dccabc6893c0a7406ad/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/a5264ab281eed5a98abd5607466c4d84/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/a5264ab281eed5a98abd5607466c4d84/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/9012dd542660a488618e2fe7f105f6e9/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/9012dd542660a488618e2fe7f105f6e9/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/bcbd23eb3117f4b8cb46900c1f95a133/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/bcbd23eb3117f4b8cb46900c1f95a133/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb7cc5418ebf6047d35ad961ed69ecc9/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb7cc5418ebf6047d35ad961ed69ecc9/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/54c8aabb9a5d67430f728f880f226f96/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/54c8aabb9a5d67430f728f880f226f96/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2659603e91c0e1e6941912fafddf6f4e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2659603e91c0e1e6941912fafddf6f4e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ef97364158ffb7294558b71e99350c63/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ef97364158ffb7294558b71e99350c63/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/800dbb4ab95652e3ad3507271ebbd8dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/800dbb4ab95652e3ad3507271ebbd8dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3bb4027a356aca9617c3ebce06a660bd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3bb4027a356aca9617c3ebce06a660bd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/ddc2305bbc4f1074feb508ee9b4f443b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/ddc2305bbc4f1074feb508ee9b4f443b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/cfce4ad090615baefffd29a7bb576378/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/cfce4ad090615baefffd29a7bb576378/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/299676239fbddfb6ca1607561d770659/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/299676239fbddfb6ca1607561d770659/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:15:9-73
+activity#com.us47codex.tictactoe.SplashActivity
+ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:screenOrientation
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:17:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.us47codex.tictactoe.HomeActivity
+ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:26:9-29:52
+	android:screenOrientation
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:29:13-49
+	android:configChanges
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:28:13-63
+	android:name
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:27:13-41
+activity#com.us47codex.tictactoe.GameBoardActivity
+ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:31:9-34:52
+	android:screenOrientation
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:34:13-49
+	android:configChanges
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:32:13-46
+activity#com.us47codex.tictactoe.DeviceListActivity
+ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:36:9-40:59
+	android:screenOrientation
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:38:13-50
+	android:theme
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml:37:13-47
+uses-sdk
+INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/5eb37e93e766777b6cae99ba73a1faf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/5eb37e93e766777b6cae99ba73a1faf0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-ads:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.0.aar/12a0e8f4bbe8ac790d0ffe69cb3f4349/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ads:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.0.aar/12a0e8f4bbe8ac790d0ffe69cb3f4349/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/22837acc93c0ed3b898d82721f690c4a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/22837acc93c0ed3b898d82721f690c4a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.firebase:firebase-core:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/1b5c82bdeff21e132061bf372cb574ff/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.0.aar/1b5c82bdeff21e132061bf372cb574ff/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/2e3e9b23304ec66a68cb4b13ec89d897/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/2e3e9b23304ec66a68cb4b13ec89d897/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/b7282512fcd93a9fd3c2d97dc65cd8e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/b7282512fcd93a9fd3c2d97dc65cd8e3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/c8bba95240d33a7c431b58c0ff478897/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/c8bba95240d33a7c431b58c0ff478897/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/7ac048a9454095b3154a2a2f37be5e82/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/7ac048a9454095b3154a2a2f37be5e82/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/d5bae3cbe1f72dccabc6893c0a7406ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/d5bae3cbe1f72dccabc6893c0a7406ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/a5264ab281eed5a98abd5607466c4d84/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/a5264ab281eed5a98abd5607466c4d84/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/9012dd542660a488618e2fe7f105f6e9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/9012dd542660a488618e2fe7f105f6e9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/bcbd23eb3117f4b8cb46900c1f95a133/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/bcbd23eb3117f4b8cb46900c1f95a133/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb7cc5418ebf6047d35ad961ed69ecc9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb7cc5418ebf6047d35ad961ed69ecc9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/54c8aabb9a5d67430f728f880f226f96/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/54c8aabb9a5d67430f728f880f226f96/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2659603e91c0e1e6941912fafddf6f4e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2659603e91c0e1e6941912fafddf6f4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ef97364158ffb7294558b71e99350c63/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ef97364158ffb7294558b71e99350c63/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/800dbb4ab95652e3ad3507271ebbd8dd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/800dbb4ab95652e3ad3507271ebbd8dd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:customtabs:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3bb4027a356aca9617c3ebce06a660bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3bb4027a356aca9617c3ebce06a660bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/3aeadfc0d675e6b40781dba32f29d002/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/3aeadfc0d675e6b40781dba32f29d002/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/03185da513894088ff1edf455cf34281/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/03185da513894088ff1edf455cf34281/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/43f7318f9beae4c15c3e1153bc66e243/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/43f7318f9beae4c15c3e1153bc66e243/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/170735ec1aa983f298cb7cd204d9cf15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/170735ec1aa983f298cb7cd204d9cf15/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/ddc2305bbc4f1074feb508ee9b4f443b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/ddc2305bbc4f1074feb508ee9b4f443b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/cfce4ad090615baefffd29a7bb576378/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/cfce4ad090615baefffd29a7bb576378/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/299676239fbddfb6ca1607561d770659/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/299676239fbddfb6ca1607561d770659/AndroidManifest.xml:20:5-22:41
+INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/22837acc93c0ed3b898d82721f690c4a/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Profession/Android/upendrashah47/Tic Tac Toe/Tic-Tac-Toe/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb7cc5418ebf6047d35ad961ed69ecc9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb7cc5418ebf6047d35ad961ed69ecc9/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:35:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/18bca9d74a7a7dcb8d4de95fab3d3f42/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/a3e92faf434b33a8b8ca42cebdf87c02/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:29:9-63
+permission#com.us47codex.tictactoe.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:32:22-76
+uses-permission#com.us47codex.tictactoe.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:32:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:35:18-89
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:42:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:45:13-49:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.us47codex.tictactoe
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:48:27-58
+category#com.us47codex.tictactoe
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:57:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/e8ac71aa618bea5a2379c21eb714d9e7/AndroidManifest.xml:60:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/7ac048a9454095b3154a2a2f37be5e82/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/7ac048a9454095b3154a2a2f37be5e82/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/7ac048a9454095b3154a2a2f37be5e82/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/7ac048a9454095b3154a2a2f37be5e82/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/7ac048a9454095b3154a2a2f37be5e82/AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/9012dd542660a488618e2fe7f105f6e9/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/9012dd542660a488618e2fe7f105f6e9/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/9012dd542660a488618e2fe7f105f6e9/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/9012dd542660a488618e2fe7f105f6e9/AndroidManifest.xml:24:13-79
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb7cc5418ebf6047d35ad961ed69ecc9/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb7cc5418ebf6047d35ad961ed69ecc9/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb7cc5418ebf6047d35ad961ed69ecc9/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb7cc5418ebf6047d35ad961ed69ecc9/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/cb7cc5418ebf6047d35ad961ed69ecc9/AndroidManifest.xml:30:13-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2659603e91c0e1e6941912fafddf6f4e/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2659603e91c0e1e6941912fafddf6f4e/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Upen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2659603e91c0e1e6941912fafddf6f4e/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ef97364158ffb7294558b71e99350c63/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/800dbb4ab95652e3ad3507271ebbd8dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/800dbb4ab95652e3ad3507271ebbd8dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3bb4027a356aca9617c3ebce06a660bd/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3bb4027a356aca9617c3ebce06a660bd/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ef97364158ffb7294558b71e99350c63/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ef97364158ffb7294558b71e99350c63/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/299676239fbddfb6ca1607561d770659/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/299676239fbddfb6ca1607561d770659/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Upen/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/299676239fbddfb6ca1607561d770659/AndroidManifest.xml:26:13-58
